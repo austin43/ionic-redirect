@@ -1,0 +1,12 @@
+{
+  "appId": "com.austin43.ionicredirect",
+  "appName": "ionicRedirectAustin43",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "build",
+  "server": {
+    "allowNavigation": [
+      "ionic-redirect-austin43.auth0.com"
+    ]
+  }
+}

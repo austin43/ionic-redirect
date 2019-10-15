@@ -1,0 +1,7 @@
+{
+  "name": "ionic-redirect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
